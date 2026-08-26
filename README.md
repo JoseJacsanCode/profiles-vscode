@@ -169,9 +169,12 @@ Também pode servir como referência para quem deseja organizar o VS Code por **
 
 ## 📄 Licença
 
-Este projeto contém principalmente arquivos de configuração do Visual Studio Code.
+Este projeto é distribuído sob a **[Licença MIT](https://github.com/JoseJacsanCode/profiles-vscode/blob/main/LICENSE)**.
 
-Sinta-se livre para utilizar e adaptar os perfis conforme suas necessidades.
+Você é livre para utilizar, copiar, modificar e redistribuir os perfis de configuração deste repositório, desde que mantenha os avisos de copyright e os termos da licença.
+
+> **Observação:** as extensões, temas, ícones e demais softwares de terceiros utilizados pelos perfis possuem suas próprias licenças e não estão sendo relicenciados por este projeto.
+
 
 ---
 
